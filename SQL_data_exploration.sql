@@ -1,3 +1,4 @@
+--Extracting the dataset
 select*
 from CovidDeaths
 order by 3,4
