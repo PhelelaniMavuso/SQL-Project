@@ -1,4 +1,4 @@
-
+--Extracting the data
 select *
 from PortfolioProject.dbo.NVHouses
 
